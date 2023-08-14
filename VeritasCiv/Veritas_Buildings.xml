@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Veritas_Buildings -->
+<!-- Author: Cldmy -->
+<!-- DateCreated: 8/11/2023 11:39:34 PM -->
+
+<!-- Veritas Unique Building: Hacker's Lounge, replacing the Research Lab-->
+
+<!--可能出现的问题：1 把第一个建筑的下面三个row都单独套一遍 2 写出来两个building文件-->
+
+<GameData>
+	<Types>
+		<Row Type = "BUILDING_HACKERS_LOUNGE" Kind = "KIND_BUILDING"/>
+	</Types>
+
+	<Buildings>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" Name="LOC_BUILDING_HACKERS_LOUNGE_NAME" Description="LOC_BUILDING_HACKERS_LOUNGE_DESCRIPTION"
+			 PrereqTech="TECH_RADIO" PrereqDistrict="DISTRICT_CAMPUS" PurchaseYield="YIELD_GOLD" 
+			 Cost="480" AdvisorType="ADVISOR_TECHNOLOGY" Maintenance="3" CitizenSlots="2"
+			 TraitType = "TRAIT_BUILDING_HACKERS_LOUNGE"/>
+	</Buildings>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_HACKERS_LOUNGE" ReplacesBuildingType="BUILDING_RESEARCH_LAB"/>
+	</BuildingReplaces>
+	
+	<BuildingPrereqs>
+		<Row Building="BUILDING_HACKERS_LOUNGE" PrereqBuilding="BUILDING_UNIVERSITY"/>
+	</BuildingPrereqs>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" YieldType="YIELD_SCIENCE" YieldChange="8"/>
+	</Building_YieldChanges>
+
+	<Building_CitizenYieldChanges>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" YieldType="YIELD_SCIENCE" YieldChange="2"/>
+	</Building_CitizenYieldChanges>
+	
+	<Building_GreatPersonPoints>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" GreatPersonClassType="GREAT_PERSON_CLASS_SCIENTIST" PointsPerTurn="3"/>
+	</Building_GreatPersonPoints>
+
+	<Buildings_XP2>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" RequiredPower="3"/>
+	</Buildings_XP2>
+
+	<Building_YieldChangesBonusWithPower>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" YieldType="YIELD_SCIENCE" YieldChange="6"/>
+	</Building_YieldChangesBonusWithPower>
+
+	<!--给一个间谍-->
+	<BuildingModifiers>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" ModifierId="GOV_GRANT_SPY"/>
+		<Row BuildingType="BUILDING_HACKERS_LOUNGE" ModifierId="GOV_ADD_SPY_UNIT"/>
+	</BuildingModifiers>
+
+
+	<!--剩余：外交能见度+1-->
+	
+	<!--------------------------------------------------------------------------------------------------------------------------->
+	<!--Another Unique building: Millennium Server Room-->
+	<Types>
+		<Row Type = "BUILDING_MILLENNIUM_SERVER_ROOM" Kind = "KIND_BUILDING"/>
+	</Types>
+
+	<Buildings>
+		<Row BuildingType="BUILDING_MILLENNIUM_SERVER_ROOM" Name="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_NAME" Description="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION" 
+			 PrereqDistrict="DISTRICT_GOVERNMENT" Cost="230" AdvisorType="ADVISOR_GENERIC" Maintenance="2" 
+			 UnlocksGovernmentPolicy="True" GovernmentTierRequirement="Tier2" TraitType="TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM"/>
+	</Buildings>
+	
+	<!--邪活，可以删-->
+	<MutuallyExclusiveBuildings>
+		<Row Building="BUILDING_GOV_CITYSTATES" MutuallyExclusiveBuilding="BUILDING_MILLENNIUM_SERVER_ROOM"/>
+		<Row Building="BUILDING_GOV_FAITH" MutuallyExclusiveBuilding="BUILDING_MILLENNIUM_SERVER_ROOM"/>
+		<Row Building="BUILDING_MILLENNIUM_SERVER_ROOM" MutuallyExclusiveBuilding="BUILDING_GOV_CITYSTATES"/>
+		<Row Building="BUILDING_MILLENNIUM_SERVER_ROOM" MutuallyExclusiveBuilding="BUILDING_GOV_FAITH"/>
+	</MutuallyExclusiveBuildings>
+
+	<BuildingPrereqs>
+		<Row Building="BUILDING_MILLENNIUM_SERVER_ROOM" PrereqBuilding="BUILDING_GOV_TALL"/>
+		<Row Building="BUILDING_MILLENNIUM_SERVER_ROOM" PrereqBuilding="BUILDING_GOV_WIDE"/>
+		<Row Building="BUILDING_MILLENNIUM_SERVER_ROOM" PrereqBuilding="BUILDING_GOV_CONQUEST"/>
+	</BuildingPrereqs>
+
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_MILLENNIUM_SERVER_ROOM" ReplacesBuildingType="BUILDING_GOV_SPIES"/>
+	</BuildingReplaces>
+
+	<BuildingModifiers>
+		<Row BuildingType="BUILDING_MILLENNIUM_SERVER_ROOM" ModifierId="GOV_GRANT_SPY"/>
+		<Row BuildingType="BUILDING_MILLENNIUM_SERVER_ROOM" ModifierId="GOV_ADD_SPY_UNIT"/>
+		<Row BuildingType="BUILDING_MILLENNIUM_SERVER_ROOM" ModifierId="GOV_INCREASE_SPY_LEVEL"/>
+	</BuildingModifiers>
+	
+	<!--剩余：行动和部署的时间减少。
+	敌方间谍以此城市为目标时，其效力降低两级。
+	所有文明的外交能见度+1。
+	所在城市的科技值+10%。-->
+	
+</GameData>

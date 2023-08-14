@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Veritas_Config -->
+<!-- Author: Cldmy -->
+<!-- DateCreated: 8/11/2023 11:38:20 PM -->
+<GameInfo>
+
+	<!--真理与自由的守护者：THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE-->
+	<!--让世界更加丰富多彩: TO_MAKE_A_MORE_VIVID_WORLD-->
+
+	<!--不支持原版-->
+	<Players>
+		<!-- Expansion 1 Support -->
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_VERITAS</CivilizationType>
+			<LeaderType>LEADER_MAKI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VERITAS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VERITAS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAKI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAKI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VERITAS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAKI</LeaderAbilityIcon>
+			<Portrait>IMG_SELECTION_FOREGROUND_MAKI</Portrait>
+		</Row>
+		<!-- Expansion 2 Support -->
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_VERITAS</CivilizationType>
+			<LeaderType>LEADER_MAKI</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_VERITAS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_VERITAS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAKI_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAKI</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_VERITAS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAKI</LeaderAbilityIcon>
+			<Portrait>IMG_SELECTION_FOREGROUND_MAKI</Portrait>
+		</Row>
+
+	</Players>
+
+	<PlayerItems>
+		<!-- Expansion 1 Support -->
+		<!-- Athena-3 -->
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VERITAS" 
+			 LeaderType="LEADER_MAKI" Type="UNIT_ATHENA3" 
+			 Icon="ICON_UNIT_ATHENA3" Name="LOC_UNIT_ATHENA3_NAME" 
+			 Description="LOC_UNIT_ATHENA3_DESCRIPTION" SortIndex="10"/>
+		<!-- Hacker's Lounge -->
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VERITAS" 
+			 LeaderType="LEADER_MAKI" Type="BUILDING_HACKERS_LOUNGE" 
+			 Icon="ICON_BUILDING_HACKERS_LOUNGE" Name="LOC_BUILDING_HACKERS_LOUNGE_NAME" 
+			 Description="LOC_BUILDING_HACKERS_LOUNGE_DESCRIPTION" SortIndex="20"/>
+		<!-- Millennium Server Room -->
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_VERITAS"
+			 LeaderType="LEADER_MAKI" Type="BUILDING_MILLENNIUM_SERVER_ROOM"
+			 Icon="ICON_BUILDING_MILLENNIUM_SERVER_ROOM" Name="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_NAME"
+			 Description="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION" SortIndex="30"/>
+		
+		<!-- Expansion 2 Support -->
+		<!-- Athena-3 -->
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_VERITAS"
+			 LeaderType="LEADER_MAKI" Type="UNIT_ATHENA3"
+			 Icon="ICON_UNIT_ATHENA3" Name="LOC_UNIT_ATHENA3_NAME"
+			 Description="LOC_UNIT_ATHENA3_DESCRIPTION" SortIndex="10"/>
+		<!-- Hacker's Lounge -->
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_VERITAS"
+			 LeaderType="LEADER_MAKI" Type="BUILDING_HACKERS_LOUNGE"
+			 Icon="ICON_BUILDING_HACKERS_LOUNGE" Name="LOC_BUILDING_HACKERS_LOUNGE_NAME"
+			 Description="LOC_BUILDING_HACKERS_LOUNGE_DESCRIPTION" SortIndex="20"/>
+		<!-- Millennium Server Room -->
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_VERITAS"
+			 LeaderType="LEADER_MAKI" Type="BUILDING_MILLENNIUM_SERVER_ROOM"
+			 Icon="ICON_BUILDING_MILLENNIUM_SERVER_ROOM" Name="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_NAME"
+			 Description="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION" SortIndex="30"/>
+		
+	</PlayerItems>
+	
+</GameInfo>

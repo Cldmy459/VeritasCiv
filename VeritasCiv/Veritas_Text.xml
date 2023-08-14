@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Veritas_Text -->
+<!-- Author: Cldmy -->
+<!-- DateCreated: 8/11/2023 11:39:49 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Civilization Name-->
+		<Replace Tag="LOC_CIVILIZATION_VERITAS_NAME" Language="en_US">
+			<Text>Veritas</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CIVILIZATION_VERITAS_NAME" Language="zh_Hans_CN">
+			<Text>真理部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CIVILIZATION_VERITAS_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CIVILIZATION_VERITAS_DESCRIPTION" Language="en_US">
+			<Text>Veritas</Text>
+		</Replace>
+
+		<!--Leaders Name-->
+		<Row Tag="LOC_LEADER_MAKI_NAME" Language="en_US">
+			<Text>Konuri Maki</Text>
+		</Row>
+
+		<Row Tag="LOC_LEADER_MAKI_NAME" Language="zh_Hans_CN">
+			<Text>小涂真纪</Text>
+		</Row>
+
+		
+		<!--Civ Ability Name-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_NAME" Language="en_US">
+			<Text>The Righteous Guardian of Truth and Knowledge-Liberating</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_NAME" Language="zh_Hans_CN">
+			<Text>真理与自由的守护者</Text>
+		</Replace>
+
+		<!--Civ Ability Description-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_DESCRIPTION" Language="en_US">
+			<Text></Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+
+		<!--Leaders Ability Name-->
+		<Row Tag="LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_NAME" Language="en_US">
+			<Text>To Make A More Vivid World!</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_NAME" Language="zh_Hans_CN">
+			<Text>让世界更加丰富多彩！</Text>
+		</Row>
+
+		<!--Leaders Ability Description-->
+		<Replace Tag="LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_DESCRIPTION" Language="en_US">
+			<Text></Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+
+		<!--Special Building 1 Name-->
+		<Replace Tag="LOC_BUILDING_HACKERS_LOUNGE_NAME" Language="en_US">
+			<Text>Hackers' Lounge</Text>
+		</Replace>
+
+		<Replace Tag="LOC_BUILDING_HACKERS_LOUNGE_NAME" Language="zh_Hans_CN">
+			<Text>真理部活动室</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_BUILDING_HACKERS_LOUNGE_NAME" Language="en_US">
+			<Text>Hackers' Lounge</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_BUILDING_HACKERS_LOUNGE_NAME" Language="zh_Hans_CN">
+			<Text>真理部活动室</Text>
+		</Replace>
+
+		<!--Special Building 1 Description-->
+		<Replace Tag="LOC_BUILDING_HACKERS_LOUNGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊建筑，替代研究实验室，造价更低，通过“无线电”科技解锁。可以获得更多的[ICON_Science]科技值，[ICON_Citizen]公民槽位和[ICON_GreatScientist]大科学家点数。所有文明的外交能见度+1。间谍与间谍容量+1。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_BUILDING_HACKERS_LOUNGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊建筑，替代研究实验室，造价更低，通过“无线电”科技解锁。</Text>
+		</Replace>
+
+		<!--Special Building 2 Name-->
+		<Replace Tag="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_NAME" Language="en_US">
+			<Text>Millennium Server Room</Text>
+		</Replace>
+
+		<Replace Tag="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_NAME" Language="zh_Hans_CN">
+			<Text>千年服务器机房</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM_NAME" Language="en_US">
+			<Text>Millennium Server Room</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM_NAME" Language="zh_Hans_CN">
+			<Text>千年服务器机房</Text>
+		</Replace>
+
+		<!--Special Building 2 Description-->
+		<Replace Tag="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊建筑，替代情报局。间谍与间谍容量+1。所有间谍行动的成功率上升，行动和部署的时间减少。敌方间谍以此城市为目标时，其效力降低两级。所有文明的外交能见度+1。所在城市的[ICON_Science]科技值+10%。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊建筑，替代情报局。</Text>
+		</Replace>
+
+		<!--Special Unit Name-->
+		<Row Tag="LOC_UNIT_ATHENA3_NAME" Language="en_US">
+			<Text>Athena-3</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_ATHENA3_NAME" Language="zh_Hans_CN">
+			<Text>雅典娜3号</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_UNIT_ATHENA3_NAME" Language="en_US">
+			<Text>Athena-3</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_UNIT_ATHENA3_NAME" Language="zh_Hans_CN">
+			<Text>雅典娜3号</Text>
+		</Row>
+
+		<!--Special Unit Description-->
+		<Row Tag="LOC_UNIT_ATHENA3_DESCRIPTION" Language="en_US">
+			<Text>Veritas unique atomic era support unit that replaces the Drone. A spherical drone equipped with an artificial intelligence that always hovers around Hare. It can learn from its own experiences, though it often works in the exact opposite of the intention of its master. Adds +2 [ICON_Movement]Movement to Modern, Atomic, and Information era units within 3 tiles and +2 [ICON_Range]Range and +10 [ICON_Bombard]Bombard Strength to adjacent Siege class units.</Text>
+		</Row>
+
+		<Row Tag="LOC_UNIT_ATHENA3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊单位，造价更低，替代无人机。总是在晴周围活动的球形无人机，具有与语音识别系统和AI算法，能够处理认知问题，但经常与主人晴的意图完全相反。为3单元格内的现代、原子能时代、和信息时代单位+2[ICON_Movement]移动力、以及相邻的攻城类单位+2[ICON_Range]射程、+10[ICON_Bombard]炮击攻击力。</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_UNIT_ATHENA3_DESCRIPTION" Language="en_US">
+			<Text>Veritas unique atomic era support unit that replaces the Drone. A spherical drone equipped with an artificial intelligence that always hovers around Hare. It can learn from its own experiences, though it often works in the exact opposite of the intention of its master. Adds +2 [ICON_Movement]Movement to Modern, Atomic, and Information era units within 3 tiles and +2 [ICON_Range]Range and +10 [ICON_Bombard]Bombard Strength to adjacent Siege class units.</Text>
+		</Row>
+
+		<Row Tag="LOC_TRAIT_UNIT_ATHENA3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊单位，造价更低，替代无人机。</Text>
+		</Row>
+
+		<!--City Names-->
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_STUDY_CENTER" Language="zh_Hans_CN">
+			<Text>千年学习馆</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_TOWER" Language="zh_Hans_CN">
+			<Text>千年巨塔</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_MONORAIL_STATION" Language="zh_Hans_CN">
+			<Text>千年单轨列车站</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_LIBRARY" Language="zh_Hans_CN">
+			<Text>千年图书馆</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_SCHOOL_CAFETERIA" Language="zh_Hans_CN">
+			<Text>千年小卖店</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_INDUSTRIAL_LAB" Language="zh_Hans_CN">
+			<Text>千年工业实验室</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_DATA_CENTER" Language="zh_Hans_CN">
+			<Text>千年数据中心</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_POWER_PLANT" Language="zh_Hans_CN">
+			<Text>千年发电厂</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_FITNESS_CENTER" Language="zh_Hans_CN">
+			<Text>千年健身中心</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_SCIENCE_SCHOOL" Language="zh_Hans_CN">
+			<Text>千年科技学院</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_VERITAS" Language="zh_Hans_CN">
+			<Text>真理部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_ENGINEERING_DEPARTMENT" Language="zh_Hans_CN">
+			<Text>工程师部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_GAME_DEVELOPMENT_DEPARTMENT" Language="zh_Hans_CN">
+			<Text>游戏开发部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_SEMINAR" Language="zh_Hans_CN">
+			<Text>研讨会</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_CLEANING_CLEARING" Language="zh_Hans_CN">
+			<Text>Cleaning & Clearing</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_ATHLETICS_TRAINING_CLUB" Language="zh_Hans_CN">
+			<Text>训练部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_SUPER_PHENOMENON_TASK_FORCE" Language="zh_Hans_CN">
+			<Text>特异现象调查部</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_STUDY_CENTER" Language="en_US">
+			<Text>Millennium Study Center</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_TOWER" Language="en_US">
+			<Text>Millennium Tower</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_MONORAIL_STATION" Language="en_US">
+			<Text>Millennium Monorail Station</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_LIBRARY" Language="en_US">
+			<Text>Millennium Library</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_SCHOOL_CAFETERIA" Language="en_US">
+			<Text>Millennium School Cafeteria</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_INDUSTRIAL_LAB" Language="en_US">
+			<Text>Millennium Industrial Lab</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_DATA_CENTER" Language="en_US">
+			<Text>Millennium Data Center</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_POWER_PLANT" Language="en_US">
+			<Text>Millennium Power Plant</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_FITNESS_CENTER" Language="en_US">
+			<Text>Millennium Fitness Center</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_MILLENNIUM_SCIENCE_SCHOOL" Language="en_US">
+			<Text>Millennium Science School</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_VERITAS" Language="en_US">
+			<Text>Veritas</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_ENGINEERING_DEPARTMENT" Language="en_US">
+			<Text>Engineering Department</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_GAME_DEVELOPMENT_DEPARTMENT" Language="en_US">
+			<Text>Game Development Department</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_SEMINAR" Language="en_US">
+			<Text>Seminar</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_CLEANING_CLEARING" Language="en_US">
+			<Text>Cleaning & Clearing</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_ATHLETICS_TRAINING_CLUB" Language="en_US">
+			<Text>Athletics Training Club</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITY_NAME_SUPER_PHENOMENON_TASK_FORCE" Language="en_US">
+			<Text>Super Phenomenon Task Force</Text>
+		</Replace>
+		<!--Citizen Names-->
+		<Replace Tag="LOC_CITIZEN_NAME_CHIHIRO" Language="zh_Hans_CN">
+			<Text>千寻</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_MAKI" Language="zh_Hans_CN">
+			<Text>真纪</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_HARE" Language="zh_Hans_CN">
+			<Text>晴</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_KOTAMA" Language="zh_Hans_CN">
+			<Text>小钰</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_AKANE" Language="zh_Hans_CN">
+			<Text>朱音</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_NERU" Language="zh_Hans_CN">
+			<Text>尼禄</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_ASUNA" Language="zh_Hans_CN">
+			<Text>明日奈</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_KARIN" Language="zh_Hans_CN">
+			<Text>花凛</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_SUMIRE" Language="zh_Hans_CN">
+			<Text>菫</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_UTAHA" Language="zh_Hans_CN">
+			<Text>歌原</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_HIBIKI" Language="zh_Hans_CN">
+			<Text>响</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_KOTORI" Language="zh_Hans_CN">
+			<Text>亚都梨</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_HIMARI" Language="zh_Hans_CN">
+			<Text>日鞠</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_EIMI" Language="zh_Hans_CN">
+			<Text>英美</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_MOMOI" Language="zh_Hans_CN">
+			<Text>小桃</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_MIDORI" Language="zh_Hans_CN">
+			<Text>小绿</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_YUZU" Language="zh_Hans_CN">
+			<Text>柚子</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_ARIS" Language="zh_Hans_CN">
+			<Text>爱丽丝</Text>
+		</Replace>
+
+		<Replace Tag="LOC_CITIZEN_NAME_CHIHIRO" Language="en_US">
+			<Text>Chihiro</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_MAKI" Language="en_US">
+			<Text>Maki</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_HARE" Language="en_US">
+			<Text>Hare</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_KOTAMA" Language="en_US">
+			<Text>Kotama</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_AKANE" Language="en_US">
+			<Text>Akane</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_NERU" Language="en_US">
+			<Text>Neru</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_ASUNA" Language="en_US">
+			<Text>Asuna</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_KARIN" Language="en_US">
+			<Text>Karin</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_SUMIRE" Language="en_US">
+			<Text>Sumire</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_UTAHA" Language="en_US">
+			<Text>Utaha</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_HIBIKI" Language="en_US">
+			<Text>Hibiki</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_KOTORI" Language="en_US">
+			<Text>Kotori</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_HIMARI" Language="en_US">
+			<Text>Himari</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_EIMI" Language="en_US">
+			<Text>Eimi</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_MOMOI" Language="en_US">
+			<Text>Momoi</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_MIDORI" Language="en_US">
+			<Text>Midori</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_YUZU" Language="en_US">
+			<Text>Yuzu</Text>
+		</Replace>
+		
+		<Replace Tag="LOC_CITIZEN_NAME_ARIS" Language="en_US">
+			<Text>Aris</Text>
+		</Replace>
+		<!--Leader's Quote-->
+		
+
+		<!--模板-->
+		<Replace Tag="" Language="en_US">
+			<Text></Text>
+		</Replace>
+
+		<Replace Tag="" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>

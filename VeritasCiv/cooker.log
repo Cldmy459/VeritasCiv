@@ -1,0 +1,13 @@
+Starting AssetCooker...
+Argument '--shaders' has been deprecated and is no longer used.
+XLP cook starting...
+D:\Firaxis ModBuddy\Civilization VI\VeritasCiv\VeritasCiv\XLPs\VeritasDDS.xlp
+Opened output file: C:\Users\Cldmy\Documents\My Games\Sid Meier's Civilization VI\Mods\VeritasCiv\Platforms\MacOS\BLPs/VeritasDDS.blp    For XLP: 'D:\Firaxis ModBuddy\Civilization VI\VeritasCiv\VeritasCiv\XLPs\VeritasDDS.xlp'
+Could not load digest key: ''.  Using mod key to sign BLP.
+Starting 'VeritasDDS'
+Load finished for: 'VeritasDDS' in 0.023 seconds
+Cook finished for: 'VeritasDDS' in 0.196 seconds
+Disk write finished for: 'VeritasDDS' in 0.060 seconds
+Cleanup finished for: 'VeritasDDS' in 0.003 seconds
+XLP cook completed with success.
+Cook completed in 0.289 seconds

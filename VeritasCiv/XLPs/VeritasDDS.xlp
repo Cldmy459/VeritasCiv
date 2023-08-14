@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="VeritasDDS"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_HACKERS_LOUNGE_128"/>
+			<m_ObjectName text="ICON_BUILDING_HACKERS_LOUNGE_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_HACKERS_LOUNGE_256"/>
+			<m_ObjectName text="ICON_BUILDING_HACKERS_LOUNGE_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_HACKERS_LOUNGE_32"/>
+			<m_ObjectName text="ICON_BUILDING_HACKERS_LOUNGE_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_HACKERS_LOUNGE_38"/>
+			<m_ObjectName text="ICON_BUILDING_HACKERS_LOUNGE_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_HACKERS_LOUNGE_50"/>
+			<m_ObjectName text="ICON_BUILDING_HACKERS_LOUNGE_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_HACKERS_LOUNGE_80"/>
+			<m_ObjectName text="ICON_BUILDING_HACKERS_LOUNGE_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_SERVER_ROOM_128"/>
+			<m_ObjectName text="ICON_BUILDING_SERVER_ROOM_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_SERVER_ROOM_256"/>
+			<m_ObjectName text="ICON_BUILDING_SERVER_ROOM_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_SERVER_ROOM_32"/>
+			<m_ObjectName text="ICON_BUILDING_SERVER_ROOM_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_SERVER_ROOM_38"/>
+			<m_ObjectName text="ICON_BUILDING_SERVER_ROOM_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_SERVER_ROOM_50"/>
+			<m_ObjectName text="ICON_BUILDING_SERVER_ROOM_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_SERVER_ROOM_80"/>
+			<m_ObjectName text="ICON_BUILDING_SERVER_ROOM_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_128"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_200"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_22"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_256"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_30"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_32"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_36"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_44"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_45"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_48"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_50"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_64"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_CIVILIZATION_VERITAS_80"/>
+			<m_ObjectName text="ICON_CIVILIZATION_VERITAS_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_256"/>
+			<m_ObjectName text="ICON_MAKI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_32"/>
+			<m_ObjectName text="ICON_MAKI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_45"/>
+			<m_ObjectName text="ICON_MAKI_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_48"/>
+			<m_ObjectName text="ICON_MAKI_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_50"/>
+			<m_ObjectName text="ICON_MAKI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_55"/>
+			<m_ObjectName text="ICON_MAKI_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_64"/>
+			<m_ObjectName text="ICON_MAKI_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_MAKI_80"/>
+			<m_ObjectName text="ICON_MAKI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_22"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_256"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_32"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_38"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_50"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_80"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_PORTRAITS_200"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_PORTRAITS_200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_PORTRAITS_256"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_PORTRAITS_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_PORTRAITS_38"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_PORTRAITS_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_PORTRAITS_50"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_PORTRAITS_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_PORTRAITS_70"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_PORTRAITS_70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_UNIT_ATHENA3_PORTRAITS_95"/>
+			<m_ObjectName text="ICON_UNIT_ATHENA3_PORTRAITS_95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_DIPLOMACY_FOREGROUND_"/>
+			<m_ObjectName text="IMG_DIPLOMACY_FOREGROUND_"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_BACKGROUND"/>
+			<m_ObjectName text="IMG_LOADING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_LOADING_FOREGROUND_"/>
+			<m_ObjectName text="IMG_LOADING_FOREGROUND_"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_DIPLOMACY_BACKGROUND"/>
+			<m_ObjectName text="IMG_DIPLOMACY_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_FOREGROUND_MAKI"/>
+			<m_ObjectName text="IMG_SELECTION_FOREGROUND_MAKI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="IMG_SELECTION_BACKGROUND_MAKI"/>
+			<m_ObjectName text="IMG_SELECTION_BACKGROUND_MAKI"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_256"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_32"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_45"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_48"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_50"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_55"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_55"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_64"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_LEADER_MAKI_80"/>
+			<m_ObjectName text="ICON_LEADER_MAKI_80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_128"/>
+			<m_ObjectName text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_256"/>
+			<m_ObjectName text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_32"/>
+			<m_ObjectName text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_38"/>
+			<m_ObjectName text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_50"/>
+			<m_ObjectName text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_80"/>
+			<m_ObjectName text="ICON_BUILDING_MILLENNIUM_SERVER_ROOM_80"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Veritas_Leaders -->
+<!-- Author: Cldmy -->
+<!-- DateCreated: 8/11/2023 11:39:14 PM -->
+
+<!--Leader: Konuri Maki-->
+
+<GameData>
+	<Types>
+		<Row Type="LEADER_MAKI" Kind="KIND_LEADER"/>
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_MAKI" Name="LOC_LEADER_MAKI_NAME" InheritFrom="LEADER_DEFAULT" SceneLayers="4"/>
+	</Leaders>
+
+	<LeaderQuotes>
+		<Row LeaderType="LEADER_MAKI" Quote="LOC_PEDIA_LEADERS_PAGE_LEADER_MAKI_QUOTE" QuoteAudio="LEADERS_QUOTES_MAKI"/>
+	</LeaderQuotes>
+	
+</GameData>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- Veritas_Civilization -->
+<!-- Author: Cldmy -->
+<!-- DateCreated: 08/12/23 00:46:27 Sat -->
+<GameInfo>
+	<Types>
+		<Row Type="CIVILIZATION_VERITAS" Kind="KIND_CIVILIZATION"/>
+		<Row Type="TRAIT_UNIT_ATHENA3" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_BUILDING_HACKERS_LOUNGE" Kind="KIND_TRAIT"/>
+		<Row Type="TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM" Kind="KIND_TRAIT"/>
+	</Types>
+	
+	<Civilizations>
+		<Row>
+			<CivilizationType>CIVILIZATION_VERITAS</CivilizationType>
+			<Name>LOC_CIVILIZATION_VERITAS_NAME</Name>
+			<Description>LOC_CIVILIZATION_VERITAS_DESCRIPTION</Description>
+			<Adjective>LOC_CIVILIZATION_VERITAS_ADJECTIVE</Adjective>
+			<StartingCivilizationLevelType>CIVILIZATION_LEVEL_FULL_CIV</StartingCivilizationLevelType>
+			<Ethnicity>ETHNICITY_ASIAN</Ethnicity>
+		</Row>
+	</Civilizations>
+
+	<CivilizationLeaders>
+		<Row CivilizationType="CIVILIZATION_VERITAS" LeaderType="LEADER_MAKI" CapitalName="LOC_CITY_NAME_VERITAS"/>
+	</CivilizationLeaders>
+
+	<Traits>
+		<Row TraitType="TRAIT_UNIT_ATHENA3" Name="LOC_TRAIT_UNIT_ATHENA3_NAME"
+			 Description="LOC_TRAIT_UNIT_ATHENA3_DESCRIPTION"/>
+		<Row TraitType="TRAIT_BUILDING_HACKERS_LOUNGE" Name="LOC_TRAIT_BUILDING_HACKERS_LOUNGE_NAME"
+			 Description="LOC_TRAIT_BUILDING_HACKERS_LOUNGE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM" Name="LOC_TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM_NAME"
+			 Description="LOC_TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION"/>
+	</Traits>
+	
+	<CivilizationTraits>
+		<Row CivilizationType="CIVILIZATION_VERITAS" TraitType="TRAIT_UNIT_ATHENA3"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" TraitType="TRAIT_BUILDING_HACKERS_LOUNGE"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" TraitType="TRAIT_BUILDING_MILLENNIUM_SERVER_ROOM"/>
+	</CivilizationTraits>
+	
+	<CityNames>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_STUDY_CENTER"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_TOWER"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_MONORAIL_STATION"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_LIBRARY"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_SCHOOL_CAFETERIA"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_INDUSTRIAL_LAB"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_DATA_CENTER"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_POWER_PLANT"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_FITNESS_CENTER"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_MILLENNIUM_SCIENCE_SCHOOL"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_VERITAS"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_ENGINEERING_DEPARTMENT"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_GAME_DEVELOPMENT_DEPARTMENT"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_SEMINAR"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_CLEANING_CLEARING"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_ATHLETICS_TRAINING_CLUB"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CityName="LOC_CITY_NAME_SUPER_PHENOMENON_TASK_FORCE"/>
+	</CityNames>
+	
+	<!--Veritas + C&C + Engineering + Game + Super + Fitness-->
+	<CivilizationCitizenNames>
+		<!--Veritas-->
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_CHIHIRO" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_MAKI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_HARE" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_KOTAMA" Female="1"/>
+		<!--C&C-->
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_AKANE" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_NERU" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_ASUNA" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_KARIN" Female="1"/>
+		<!--Fitness-->
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_SUMIRE" Female="1"/>
+		<!--Engineering-->
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_UTAHA" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_HIBIKI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_KOTORI" Female="1"/>
+		<!--Super-->
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_HIMARI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_EIMI" Female="1"/>
+		<!--Game-->
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_MOMOI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_MIDORI" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_YUZU" Female="1"/>
+		<Row CivilizationType="CIVILIZATION_VERITAS" CitizenName="LOC_CITIZEN_NAME_ARIS" Female="1"/>
+	</CivilizationCitizenNames>
+	
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_VERITAS" Tier="1"/>
+	</StartBiasRivers>
+
+	<!-- Color Style-->
+	<Colors>
+		<Row>
+			<!--浅蓝-->
+			<Type>COLOR_PLAYER_VERITAS_PRIMARY</Type>
+			<Color>11,254,249,125</Color>
+		</Row>
+		<Row>
+			<!--深蓝-->
+			<Type>COLOR_PLAYER_VERITAS_SECONDARY</Type>
+			<Color>0,126,254,125</Color>
+		</Row>
+	</Colors>
+	<PlayerColors>
+		<Row>
+			<Type>LEADER_MAKI</Type>
+			<Usage>Unique</Usage>
+			<PrimaryColor>COLOR_PLAYER_MAKI_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MAKI_SECONDARY</SecondaryColor>
+			<TextColor>11,254,249,255</TextColor>
+		</Row>
+	</PlayerColors>
+
+	<!--Loading Foreground不用-->
+	<LoadingInfo>
+		<Row LeaderType="LEADER_MAKI" BackgroundImage="IMG_LOADING_BACKGROUND.dds" 
+			 EraText="LOC_LOADING_INFO_LEADER_DEFAULT" PlayDawnOfManAudio="1"/>
+	</LoadingInfo>
+	<DiplomacyInfo>
+		<Row Type="LEADER_MAKI" BackgroundImage="IMG_DIPLOMACY_BACKGROUND.dds"/>
+	</DiplomacyInfo>
+	
+</GameInfo>

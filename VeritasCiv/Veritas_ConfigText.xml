@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ConfigText -->
+<!-- Author: Cldmy -->
+<!-- DateCreated: 8/12/2023 11:29:22 PM -->
+<GameData>
+	<LocalizedText>
+		<!--Civilization Name-->
+		<Replace Tag="LOC_CIVILIZATION_VERITAS_NAME" Language="zh_Hans_CN" Text="真理部"/>
+
+		<!--Leaders Name-->
+		<Replace Tag="LOC_LEADER_MAKI_NAME" Language="zh_Hans_CN">
+			<Text>小涂真纪</Text>
+		</Replace>
+
+		<!--Civ Ability Name-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_NAME" Language="zh_Hans_CN">
+			<Text>真理与自由的守护者</Text>
+		</Replace>
+
+		<!--Civ Ability Description-->
+		<Replace Tag="LOC_TRAIT_CIVILIZATION_THE_RIGHTEOUS_DEFENDER_OF_TRUTH_AND_THE_FREEDOM_OF_KNOWLEDGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+
+		<!--Leaders Ability Name-->
+		<Replace Tag="LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_NAME" Language="zh_Hans_CN">
+			<Text>让世界更加丰富多彩！</Text>
+		</Replace>
+
+		<!--Leaders Ability Description-->
+		<Replace Tag="LOC_TRAIT_LEADER_TO_MAKE_A_MORE_VIVID_WORLD_DESCRIPTION" Language="zh_Hans_CN">
+			<Text></Text>
+		</Replace>
+
+		<!--Special Building 1 Name-->
+		<Replace Tag="LOC_BUILDING_HACKERS_LOUNGE_NAME" Language="zh_Hans_CN">
+			<Text>真理部活动室</Text>
+		</Replace>
+
+		<!--Special Building 1 Description-->
+		<Replace Tag="LOC_BUILDING_HACKERS_LOUNGE_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊建筑，替代研究实验室，造价更低，通过“无线电”科技解锁。可以获得更多的[ICON_Science]科技值，[ICON_Citizen]公民槽位和[ICON_GreatScientist]大科学家点数。所有文明的外交能见度+1。间谍与间谍容量+1。</Text>
+		</Replace>
+		
+		<!--Special Building 2 Name-->
+		<Replace Tag="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_NAME" Language="zh_Hans_CN">
+			<Text>千年服务器机房</Text>
+		</Replace>
+
+		<!--Special Building 2 Description-->
+		<Replace Tag="LOC_BUILDING_MILLENNIUM_SERVER_ROOM_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊建筑，替代情报局。间谍与间谍容量+1。所有间谍行动的成功率上升，行动和部署的时间减少。敌方间谍以此城市为目标时，其效力降低两级。所有文明的外交能见度+1。所在城市的[ICON_Science]科技值+10%。</Text>
+		</Replace>
+
+		<!--Special Unit Name-->
+		<Replace Tag="LOC_UNIT_ATHENA3_NAME" Language="zh_Hans_CN">
+			<Text>雅典娜3号</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_UNIT_ATHENA3_NAME" Language="zh_Hans_CN">
+			<Text>雅典娜3号</Text>
+		</Replace>
+
+		<!--Special Unit Description-->
+		<Replace Tag="LOC_UNIT_ATHENA3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊单位，造价更低，替代无人机。总是在晴周围活动的球形无人机，具有与语音识别系统和AI算法，能够处理认知问题，但经常与主人晴的意图完全相反。为3单元格内的现代、原子能时代、和信息时代单位+2[ICON_Movement]移动力、以及相邻的攻城类单位+2[ICON_Range]射程、+10[ICON_Bombard]炮击攻击力。</Text>
+		</Replace>
+
+		<Replace Tag="LOC_TRAIT_UNIT_ATHENA3_DESCRIPTION" Language="zh_Hans_CN">
+			<Text>真理部特殊单位，造价更低，替代无人机。总是在晴周围活动的球形无人机，具有与语音识别系统和AI算法，能够处理认知问题，但经常与主人晴的意图完全相反。为3单元格内的现代、原子能时代、和信息时代单位+2[ICON_Movement]移动力、以及相邻的攻城类单位+2[ICON_Range]射程、+10[ICON_Bombard]炮击攻击力。</Text>
+		</Replace>
+		
+	</LocalizedText>
+</GameData>
